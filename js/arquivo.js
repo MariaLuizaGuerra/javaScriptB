@@ -1,3 +1,8 @@
+
+let num1 = Number(prompt("Digite o primeiro numero:"));
+let num2 = Number(prompt("Digite o segundo numero:"));
+alert("resultado da some: " + (num1 + num2));
+
 var global = "variavel global";
 console.log(global);
 function exeomplo2(){
@@ -5,14 +10,6 @@ function exeomplo2(){
     console.log(local);
 }
 exeomplo2();
-
-let x=10;
-if(x>5){
-    var y=18;
-    console.log("valor de y igual a",y);
-}
-const constante ="texto";
-console.log(constante);
 
 function saudacao(){
     alert("Bem vindo ao nosso site 3");
