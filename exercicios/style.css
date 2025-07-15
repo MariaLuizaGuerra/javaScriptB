@@ -21,8 +21,41 @@ input, button {
 p {
     font-weight: bold;
 }
+.exercicio2 h2{
+    color: rgb(0, 38, 255);
+}
 .exercicio2{
     border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.exercicio3 h2{
+    color: rgb(0, 38, 255);
+}
+
+.exercicio3{
+    border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.exercicio4 h2{
+    color: rgb(0, 38, 255);
+}
+
+.exercicio4{
+    border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.exercicio5 h2{
+    color: rgb(0, 38, 255);
+}
+
+.exercicio5{
+    border: 2px solid #ff0000;
     padding: 15px;
     margin-bottom: 20px;
     border-radius: 8px;
