@@ -1,12 +1,16 @@
 h1 {
-    color: #7700ffda;
+    color: #ff0000da;
 }
 
 h2 {
     color: #333;
 }
 
-.exercicio {
+.exercicio1 h2{
+    color: rgb(0, 38, 255);
+}
+
+.exercicio1 {
     border: 1px solid #ff0000;
     padding: 15px;
     margin-bottom: 20px;
@@ -50,12 +54,91 @@ p {
     margin-bottom: 20px;
     border-radius: 8px;
 }
-.exercicio5 h2{
+.Exercicio5 h2{
     color: rgb(0, 38, 255);
 }
 
-.exercicio5{
-    border: 2px solid #ff0000;
+.Exercicio5{
+    border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.exercicio6 h2{
+    color: rgb(0, 38, 255);
+}
+
+.exercicio6{
+    border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.Exercicio7 h2{
+    color: rgb(0, 38, 255);
+}
+
+.Exercicio7{
+    border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.Exercicio8 h2{
+    color: rgb(0, 38, 255);
+}
+
+.Exercicio8{
+    border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.exercicio9 h2{
+    color: rgb(0, 38, 255);
+}
+
+.exercicio9 {
+    border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.Exercicio10 h2{
+    color: rgb(0, 38, 255);
+}
+
+.Exercicio10{
+    border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.Exercicio11 h2{
+    color: rgb(0, 38, 255);
+}
+
+.Exercicio11{
+    border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.exercicio12 h2{
+    color: rgb(0, 38, 255);
+}
+.exercicio12{
+    border: 1px solid #ff0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.Exercicio13 h2{
+    color: rgb(0, 38, 255);
+}
+
+.Exercicio13{
+    border: 1px solid #ff0000;
     padding: 15px;
     margin-bottom: 20px;
     border-radius: 8px;
